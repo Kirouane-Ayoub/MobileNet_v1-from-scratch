@@ -1,1 +1,1 @@
-# MobileNet_v1-from-scratch-
+# MobileNetV1 from scratch : 
