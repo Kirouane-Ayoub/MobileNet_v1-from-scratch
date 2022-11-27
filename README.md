@@ -17,3 +17,6 @@ The size of the input image is 224 × 224 × 3.
 
 
 ![1667298133943](https://user-images.githubusercontent.com/99510125/204151398-d20e2292-f7a0-46bf-a811-64d50a9b2307.png)
+
+
+For more information visit : https://www.linkedin.com/pulse/mobilenets-efficient-convolutional-neural-networks-mobile-kirouane
